@@ -1,0 +1,14 @@
+img {
+        width: 300px;
+        border:10px ridge indigo;
+        background-color: orange;
+    }
+    body{
+        background-color: blue;
+
+    }
+
+    img:hover {
+         box-shadow:10px 10px 10px gray;
+         background-color: fuchsia ;
+    }
